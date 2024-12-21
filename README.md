@@ -1,5 +1,5 @@
 # Chat-with-PDF-Using-RAG-Pipeline
-Overview
+# Overview
 This project, "Chat with PDF Using RAG Pipeline", is designed to simplify interaction with large PDF documents. Instead of manually searching through lengthy files, users can now upload a PDF, ask questions in natural language, and get accurate, context-based answers. The system combines retrieval and generation techniques for a seamless and intelligent document-querying experience.
 
 Features
