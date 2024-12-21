@@ -52,4 +52,4 @@ Resolving library dependencies during the development process.
 Feel free to contribute by forking the repository and creating pull requests. Suggestions, bug reports, and feature requests are always welcome!
 
 # License
-This project is licensed under GNU License.
+This project is licensed under GNU General Public License.
